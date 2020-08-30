@@ -188,7 +188,7 @@ I use ZSH shell with the following extras:
 * [zsh-completions](https://github.com/zsh-users/zsh-completions) -  Additional completion definitions for Zsh.
 * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) -  Fish-like autosuggestions for Zsh.
 * [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A fast reimplementation of Powerlevel9k ZSH theme
-* [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
+* [powerline-fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 
 ### File Navigation and Search
 
@@ -199,6 +199,7 @@ I use ZSH shell with the following extras:
 * [facebook/PathPicker](https://github.com/facebook/pathpicker/) - PathPicker accepts a wide range of input/output from git commands, grep results, searches pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 * [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern.
+* [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative
 
 ### Text Mainuplation
 
@@ -240,6 +241,7 @@ I use ZSH shell with the following extras:
 
 * [composer](https://getcomposer.org/) - Dependency Manager for PHP
 * [Yarn](https://yarnpkg.com/en/) - Modern Javascript Package manager.
+* [cargo](https://crates.io/) -  Rust Package Registry
 
 ### Version Control
 
@@ -285,6 +287,7 @@ I use ZSH shell with the following extras:
 * [The Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) - The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal. It’s an essential part of using Heroku.
 * [cloudflare-cli](https://github.com/danielpigott/cloudflare-cli) - CLI for interacting with Cloudflare
 * [firebase-tools](https://firebase.google.com/docs/cli) - Firebase Command Line tools
+* [fauna/fauna-shell](https://github.com/fauna/fauna-shell) - Interactive shell for FaunaDB
 
 ### Docker Tools
 
@@ -301,8 +304,9 @@ I use ZSH shell with the following extras:
 * [helm](https://helm.sh/) - The package manager for Kubernetes.
 * [kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions
 * [kubeseal](https://github.com/bitnami-labs/sealed-secrets) - CLI tool for encrypt and decrypt Bitnani sealed secrets
+* [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
 
-## Infrastucture As Code
+## Infrastucture As Code.
 
 * [Terraform](https://www.terraform.io/) - Write, Plan, and Create Infrastructure as Code.
 * [Ansible](https://www.ansible.com/) - Simple, agentless IT automation that anyone can use.
